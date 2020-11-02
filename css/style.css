@@ -1,0 +1,223 @@
+
+.no-margin{
+	margin:0px;
+	padding-bottom: 0px;
+}
+.page-background{
+	background: url("images/2.jpg");
+}
+
+.no-jumbotron-padding{
+	padding: 0px;
+}
+.adj-captions{
+	bottom: 150px;
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+}
+.h3-labels{
+	margin-top: 0px;
+	font-size: 22px;
+	margin-bottom: 25px;
+}
+.site-footer{
+	background-color: #222;
+	color: #fff;
+	margin-top: 30px;
+	padding-top: 30px;
+}
+.bottom-footer{
+	padding-top: 10px;
+	background-color: #191919;
+	color: #fff;
+}
+.footer-nav{
+	list-style: none; 
+}
+
+.footer-nav li{
+	display: inline;
+
+}
+.footer-nav li:not(:first-child):before{
+	content: '|';
+	padding: 10px;
+	color: red;
+}
+.footer-nav a{
+	text-decoration: none;
+}
+
+
+.mid-section{
+	background-color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.mid-section p{
+	color: black;
+	font-size: 20px;
+	margin-bottom: 0px;
+	
+}
+.bg-color-light{
+	background: url("../images/1024x768-boston-university-red-solid-color-background.jpg");
+	background-image: url("../images/1024x768-boston-university-red-solid-color-background.jpg");
+}
+.headline{
+	display: block;
+    margin: 10px 0 25px 0;
+    border-bottom: 1px dotted #e4e9f0;
+    color: white;
+}
+.headline h2{
+	margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #e4e9f0;
+    font-size: 22px;
+}
+.headline p{
+    font-size: 13px;
+    padding-top: 15px;
+}
+.content-sm{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.bg-content{
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.read-more-btn{
+	border-radius: 0px;
+}
+.waistline{
+	display: block;
+    color: black;
+}
+.waistline h3{
+	padding: 0 0 10px 0;
+    display: inline-block;
+    border-bottom: 2px solid #e4e9f0;
+    font-size: 22px;
+}
+.waistline p{
+	color: black;
+	font-size: 12px;
+}
+.baseline{
+	display: block;
+    margin: 10px 0 25px 0px;
+    color: black;
+}
+.baseline h2{
+	margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #e4e9f0;
+    font-size: 22px;
+}
+.baseline p{
+	padding-top: 15px;
+}
+.page-header img{
+	width: 1349px;
+}
+.bread > li + li:before {
+	padding: 0px;
+}
+.profile-block{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.profile-block-headline{
+	display: block;
+    margin: 10px 0 25px 0;
+    border-bottom: 1px dotted #e4e9f0;
+    color: black;
+}
+.profile-block-headline h1{
+	margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #e4e9f0;
+    font-size: 22px;
+}
+.customers-block{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.customers-block-headline{
+	display: block;
+    margin: 10px 0 25px 0;
+    border-bottom: 1px dotted #e4e9f0;
+    color: white;
+}
+.customers-block-headline h1{
+	margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #e4e9f0;
+    font-size: 22px;
+}
+.customers-block-description{
+	color: white;
+}
+.our-values{
+	display: block;
+    margin: 10px 0 25px 0;
+    border-bottom: 1px dotted #e4e9f0;
+    color: black;
+}
+.our-values h1{
+	margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #e4e9f0;
+    font-size: 22px;
+}
+.h3-adjust{
+	margin-top: 0px;
+}
+.location{
+	padding-top: 30px;
+	padding-bottom: 55px;
+}
+.key{
+	AIzaSyC6ACHFge7eUWKOk4BXqvJwbjI8QJwbzoc 
+}
+#map{
+	height: 450px;
+    width: 100%;
+}
+.address-adjust{
+	margin-bottom: 0px;
+}
+.nav-inverse{
+	background-color: #191919;
+}
+.bg-white{
+	background-color: white;
+}
+.nav-gliphcon-color{
+	color: red;
+}
+.gliphcon-color{
+	color:yellow; 
+	font-size: 75px;
+}
+.dropmenu-items{
+	background-color: #191919;
+}
+.dropmenu-general{
+	background-color: #191919;
+}
+.font{
+	font-size: 12px;
+}
+.footer-nav-color{
+	color: white;
+}
