@@ -148,4 +148,4 @@ It works really simple.*/
 /*Lastly, you may have used JSON.stringify before, but did you realise it can also help indent your JSON for you?
 The stringify() method takes two optional parameters: a replacer function, 
 which you can use to filter the JSON that is displayed, and a space value.*/
-console.log(JSON.stringify({ alpha: 'A', beta: 'B' }, null, ' '));
+//console.log(JSON.stringify({ alpha: 'A', beta: 'B' }, null, ' '));
